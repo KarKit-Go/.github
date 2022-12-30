@@ -28,17 +28,17 @@ We are KarKit GoGoGo!
 * 作用：小车的驱动体系核心，搭载了为小车构建的有限状态机
 * 选型原因：流通的大部分电机驱动拓展板都是为Arduino打造的，加之本人对arduino更熟练些，遂选用
 * 代码：
-  * [硬串口控制](./arduino/Serial_Car/)
-  * [软串口控制](./arduino/Serial_Car_Softserial/)
+  * [硬串口控制](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/arduino/Serial_Car/)
+  * [软串口控制](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/arduino/Serial_Car_Softserial/)
 
 ##### ESP32
 
 * 作用：信息传递，用于服务器与小车间的信息传递
 * 选型原因：搭载wifi与蓝牙，更利于无线通讯
 * 代码：
-  * [microWebServer](./ESP32/server/)
-  * [wifi配置](./ESP32/config_wifi/)
-  * [wifi配网](./ESP32//newBoard/)
+  * [microWebServer](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32/server/)
+  * [wifi配置](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32/config_wifi/)
+  * [wifi配网](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32//newBoard/)
 
 #### 软件端
 
@@ -50,4 +50,6 @@ We are KarKit GoGoGo!
 * 作用：通过陀螺仪判断手机的姿态，控制小车的方向
 * 选型原因：容易获得，且传感器精度高，自带网络、浏览器等基础设施
 * 代码：
-  * [手机端web（试验用无样式）](./Device/)
+  * [手机端web（试验用无样式）](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/Device/)
+
+##### mixly封装
