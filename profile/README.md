@@ -17,7 +17,7 @@ We are KarKit GoGoGo!
 
 🍿 本小组意在于为驾驶环境的简单测试开发工具包
 
-🧙 我们的成员有：wujinhjun/EvaLiuYW/xqxuan/...等六人
+🧙 我们的成员有：wujinhjun/EvaLiuYW/xqxuan/jojojolynn...等六人
 
 ***
 
