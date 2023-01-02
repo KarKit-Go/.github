@@ -25,22 +25,22 @@ We are KarKit GoGoGo!
 
 ### 硬件端
 
-#### Arduino
+#### [Arduino](https://github.com/KarKit-Go/Arduino_for_car)
 
 * 作用：小车的驱动体系核心，搭载了为小车构建的有限状态机
 * 选型原因：流通的大部分电机驱动拓展板都是为Arduino打造的，加之本人对arduino更熟练些，遂选用
 * 代码：
-  * [硬串口控制](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/arduino/Serial_Car/)
-  * [软串口控制](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/arduino/Serial_Car_Softserial/)
+  * [硬串口控制](https://github.com/KarKit-Go/Arduino_for_car/tree/main/arduino/Serial_Car/)
+  * [软串口控制](https://github.com/KarKit-Go/Arduino_for_car/tree/main/arduino/Serial_Car_Softserial/)
 
-#### ESP32
+#### [ESP32](https://github.com/KarKit-Go/ESP_32_server)
 
 * 作用：信息传递，用于服务器与小车间的信息传递
 * 选型原因：搭载wifi与蓝牙，更利于无线通讯
 * 代码：
-  * [microWebServer](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32/server/)
-  * [wifi配置](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32/config_wifi/)
-  * [wifi配网](https://github.com/KarKit-Go/DES3802_interactionDesign/tree/main/ESP32//newBoard/)
+  * [microWebServer](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/server/)
+  * [wifi配置](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/config_wifi/)
+  * [wifi配网](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32//newBoard/)
 
 ### 软件端
 
