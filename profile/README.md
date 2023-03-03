@@ -38,9 +38,9 @@ We are KarKit GoGoGo!
 * 作用：信息传递，用于服务器与小车间的信息传递
 * 选型原因：搭载wifi与蓝牙，更利于无线通讯
 * 代码：
-  * [microWebServer](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/server/)
-  * [wifi配置](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/config_wifi/)
-  * [wifi配网](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/newBoard/)
+  * [microWebServer](https://github.com/KarKit-Go/ESP_32_server/tree/main/server/)
+  * [wifi配置](https://github.com/KarKit-Go/ESP_32_server/tree/main/config_wifi)
+  * [wifi配网](https://github.com/KarKit-Go/ESP_32_server/tree/main/newBoard/)
   * [最终](https://github.com/KarKit-Go/ESP_32_server/tree/main/finalBoard/)
 
 ### 软件端
