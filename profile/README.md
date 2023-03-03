@@ -40,7 +40,8 @@ We are KarKit GoGoGo!
 * 代码：
   * [microWebServer](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/server/)
   * [wifi配置](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/config_wifi/)
-  * [wifi配网](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32//newBoard/)
+  * [wifi配网](https://github.com/KarKit-Go/ESP_32_server/tree/main/ESP32/newBoard/)
+  * [最终](https://github.com/KarKit-Go/ESP_32_server/tree/main/finalBoard/)
 
 ### 软件端
 
